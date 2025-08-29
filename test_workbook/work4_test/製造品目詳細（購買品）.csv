@@ -1,0 +1,4 @@
+品目CD,品名,内部名,製造場所CD,製造LT,購入LT
+P0001,品名1,$D_PS_PurchasePart,MFG01,14,28
+P0005,品名5,$D_PS_PurchasePart,MFG05,54,108
+P0009,品名9,$D_PS_PurchasePart,MFG09,94,188
