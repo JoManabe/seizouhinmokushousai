@@ -1,0 +1,4 @@
+更新タイプ,モデル名,有効品番,正式品番,会社,工場,手配NO1,外注先,,品名
+"changeType","dataModel","$P_PS_ValidPN","$P_PS_PN","$P_PS_CompanyQOID","P_PS_FactoryQOID","$P_PS_OrderNumberQOID","$P_PS_LocationQOID",,""
+,"$D_PS_PhantomPart","P0004","P0004","HSK","WG01",,,,"架空品D"
+,"$D_PS_PhantomPart","P0008","P0008","HSK","WG01",,,,"架空品H"

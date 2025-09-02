@@ -1,0 +1,4 @@
+更新タイプ,モデル名,有効品番,正式品番,会社,工場,,品名
+"changeType","dataModel","$P_PS_ValidPN","$P_PS_PN","$P_PS_CompanyQOID","P_PS_FactoryQOID",,""
+,"$D_PS_PurchasePart","P0001","P0001","HSK","WG01",,"購買品A"
+,"$D_PS_PurchasePart","P0006","P0006","HSK","WG01",,"購買品F"
