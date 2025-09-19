@@ -1,4 +1,4 @@
 更新タイプ,モデル名,有効品番,正式品番,会社,工場,手配NO1,製造場所,製造LT,,品名
-"changeType","dataModel","$P_PS_ValidPN","$P_PS_PN","$P_PS_CompanyQOID","P_PS_FactoryQOID","$P_PS_OrderNumberQOID","$P_PS_ValidOrderNumberID","##P_MCF_mfg_lt",,""
-,"$D_PS_InHousePart","P0002","P0002","HSK","WG01",,"WG02",20,,"内製品B"
-,"$D_PS_InHousePart","P0005","P0005","HSK","WG01",,"WG04",0,,"内製品E"
+changeType,dataModel,$P_PS_ValidPN,$P_PS_PN,$P_PS_CompanyQOID,P_PS_FactoryQOID,$P_PS_OrderNumberQOID,$P_PS_ValidOrderNumberID,##P_MCF_mfg_lt,,
+,$D_PS_InHousePart,P0002,P0002,HSK,WG01,,WG02,20,,内製品B
+,$D_PS_InHousePart,P0005,P0005,HSK,WG01,,WG04,0,,内製品E
